@@ -1,6 +1,6 @@
-Creating deployment using the manifest file
+# Creating deployment using the manifest file
 
-# kubectl apply -f deployment.yml
+ kubectl apply -f deployment.yml
 
 list the podes using the my-app namespace
 # kubectl get pods -n my-app
